@@ -15,4 +15,4 @@ to know much data/airtime a SPECIFIC telephony-user had left or had just bought.
 had little to no difficulty identifying specific users (using their cellphone numbers) and addressing their 
 specific problems. And this was all possible WITHOUT the need for a user to provide all their private data.
 
-Current online merchant gateways, by design, ALWAYS require user private data.
+Current online merchant gateways, by design, ALWAYS require private user data.
