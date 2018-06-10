@@ -1,4 +1,6 @@
 # anonymousinvoicing
+# registration/IDs via payment + authorisation through payment + accounting after payment
+# erlang
 An Anonymoous Invoicing / AAA Proposal for Future Internet Users and Merchants
 This project aims to construct an architecture for anonymous Authentication, Authorisation and Accounting (AAA) services online.
 Current online Merchant and Banking services make it impossible to buy goods and services without revealing true identity.
